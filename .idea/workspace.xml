@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b917ec9f-9621-4cee-9249-0e349d3c48e4" name="Changes" comment="">
+    <list default="true" id="b917ec9f-9621-4cee-9249-0e349d3c48e4" name="Changes" comment="Konfiguracja pliku .gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Tirioss"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Tirioss/projekt_lab1.git",
@@ -62,11 +72,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1750624436011</updated>
-      <workItem from="1750624437149" duration="321000" />
+      <workItem from="1750624437149" duration="634000" />
     </task>
+    <task id="LOCAL-00001" summary="Konfiguracja pliku .gitignore">
+      <option name="closed" value="true" />
+      <created>1750624950413</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750624950413</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Konfiguracja pliku .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Konfiguracja pliku .gitignore" />
   </component>
 </project>

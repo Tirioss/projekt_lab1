@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b917ec9f-9621-4cee-9249-0e349d3c48e4" name="Changes" comment="Konfiguracja pliku .gitignore">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="b917ec9f-9621-4cee-9249-0e349d3c48e4" name="Changes" comment="Dodanie funkcji przywitaj(imie)">
+      <change afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -72,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1750624436011</updated>
-      <workItem from="1750624437149" duration="634000" />
+      <workItem from="1750624437149" duration="950000" />
     </task>
     <task id="LOCAL-00001" summary="Konfiguracja pliku .gitignore">
       <option name="closed" value="true" />
@@ -82,7 +82,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750624950413</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Dodanie funkcji przywitaj(imie)">
+      <option name="closed" value="true" />
+      <created>1750625213217</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1750625213217</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Konfiguracja pliku .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Konfiguracja pliku .gitignore" />
+    <MESSAGE value="Dodanie funkcji przywitaj(imie)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dodanie funkcji przywitaj(imie)" />
   </component>
 </project>
